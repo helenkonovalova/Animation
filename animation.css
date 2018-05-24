@@ -1,0 +1,57 @@
+#container {
+	margin-top: 50px;
+	margin-left: 50px;
+	width: 70px;
+	height: 70px;
+	background-color: orange;
+	position:  relative;
+}
+.circle1 {
+	width: 15px;
+	height: 15px;
+	border-radius: 50%;
+	background-color: white;
+	position: absolute;
+	margin-left: 27px;
+	margin-top: 1px;
+}
+.circle2 {
+	width: 15px;
+	height: 15px;
+	border-radius: 50%;
+	background-color: white;
+	position: absolute;
+	margin-left: 1px;
+	margin-top: 53px;
+}
+.circle3 {
+	width: 15px;
+	height: 15px;
+	border-radius: 50%;
+	background-color: white;
+	position: absolute;
+	margin-left: 53px;
+	margin-top: 53px;
+}
+
+#main {
+	margin-top: 100px;
+	margin-left: 50px;
+	width: 70px;
+	height: 70px;
+	background-color: green;
+	position:  relative;
+
+}
+
+ .circle {
+	width: 15px;
+	height: 15px;
+	border-radius: 50%;
+	background-color: white;
+	position: absolute;
+	margin-left: 25px;
+	margin-top: 25px;
+
+	
+}
